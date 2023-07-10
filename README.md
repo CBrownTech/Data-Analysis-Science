@@ -117,10 +117,4 @@ To run the code and replicate the analysis:
 5. Examine the results, visualizations, and interpretations obtained at each step.
 6. Customize the code, visualizations, and analysis as needed for your specific requirements.
 
-Please note that the code provided is a guideline, and you may need to adapt it based on your dataset and analysis goals.
-
 ---
-
-This README.md file provides an overview of the project and a step-by-step guide to replicate the analysis. Feel free to customize and expand upon it based on your specific project requirements, datasets, and analyses.
-
-If you have any questions or need further assistance, please let me know!
