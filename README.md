@@ -37,10 +37,9 @@ The project is organized into the following steps:
 * A statistical analysis was performed using a paired t-test to compare the sample means of streaming numbers and YouTube views. The resulting p-value indicated whether there was a significant difference between the two metrics.
 * The distributions of the sample means were visualized using histograms to understand their distributions and compare them between streaming numbers and YouTube views.
 
-![Compare Avg Streaming:Viewing](https://github.com/CBrownTech/Data-Analysis-Science/assets/99114801/94234ced-476c-42fb-aea5-aff871c48f7b)
+![Compare Avg Streaming:Viewing](https://github.com/CBrownTech/Data-Analysis-Science/assets/99114801/94234ced-476c-42fb-aea5-aff871c48f7b) 
 
 ![Sampling Dist  of Difference (Streaming and YT Views) ](https://github.com/CBrownTech/Data-Analysis-Science/assets/99114801/b2871866-8325-4349-b6c1-6c66a3f09558)
-6b3aa3b51)
 
 ![Dist  Sample Means Streams:Views](https://github.com/CBrownTech/Data-Analysis-Science/assets/99114801/361e6edd-4d9a-4304-87c1-51becec7068b)
 
@@ -54,7 +53,21 @@ Overall, this analysis provides insights into the contrasting popularity and vie
 
 ### 2. Albums vs. Singles:
 
+* The statistical analysis indicated a significant difference between album streaming and single streaming on Spotify, as well as between album views and single views on YouTube. This suggests that albums and singles have distinct patterns of popularity and viewership on these platforms.
+* The additional analysis revealed the mean streaming numbers and YouTube views for albums and singles, allowing for a direct comparison. The bar plots visually demonstrated the differences in average streaming numbers and YouTube views between the two categories.
+* The sampling distribution of the difference in sample means was visualized through a histogram, showcasing the distribution of differences obtained by randomly sampling from the data. The observed difference in sample means was indicated by a vertical line in the histogram.
 
+![Compare Avg Numbers of Albums and Singles](https://github.com/CBrownTech/Data-Analysis-Science/assets/99114801/9f8f5e61-eefb-48d5-8023-558a4d704978)
+<br> <br/>
+![Sampling Dist  of Albums and Singles](https://github.com/CBrownTech/Data-Analysis-Science/assets/99114801/9473c755-6f0f-4aa0-87eb-c511fca7e035)
+
+### Conclusion:
+
+Based on the analysis, it can be concluded that there is a significant difference in streaming numbers and YouTube views between albums and singles. Albums tend to have higher streaming numbers and YouTube views compared to singles.
+
+This analysis provides insights into the varying popularity and viewership patterns between albums and singles in the music industry. It can inform decision-making processes related to music production, marketing, and audience engagement strategies. Understanding the differences between albums and singles can help music artists and industry professionals tailor their approaches and maximize their impact.
+
+### 3. Major Keys vs. Minor Keys
 
 ## Instructions
 
