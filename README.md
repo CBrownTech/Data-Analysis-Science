@@ -10,7 +10,7 @@ This project aims to analyze and compare various factors related to streaming nu
 
 4. **Comparing Numbers between Music Artists:** The analysis extends to comparing streaming numbers and YouTube viewership across different music artists. By examining the variations in popularity and viewership between artists, it becomes possible to identify trends and factors contributing to their respective levels of success.
 
-## Project Overview
+<!-- ## Project Overview
 
 The project is organized into the following steps:
 
@@ -26,7 +26,35 @@ The project is organized into the following steps:
 
 6. **Comparing Numbers between Music Artists:** The analysis is extended to compare streaming numbers and YouTube viewership across different music artists. The data is grouped by artist, and statistical analysis and visualizations are performed to identify variations and insights.
 
-7. **Documentation and Sharing:** The code is thoroughly documented with comments explaining each step and the purpose of the code. Markdown files and README.md are created to provide detailed descriptions, explanations, and visualizations of the analysis. The code and analysis results can be shared via GitHub or other platforms.
+7. **Documentation and Sharing:** The code is thoroughly documented with comments explaining each step and the purpose of the code. Markdown files and README.md are created to provide detailed descriptions, explanations, and visualizations of the analysis. The code and analysis results can be shared via GitHub or other platforms. -->
+
+## Summary of Analysis
+
+### 1. Streaming Numbers vs. YouTube Viewership:
+
+* In this category, we compared the streaming numbers on Spotify with the viewership of official music videos on YouTube. The analysis involved applying the Central Limit Theorem to obtain sampling distributions and performing statistical tests.
+* The results of the statistical test on the original data indicated a significant difference between Spotify streaming and YouTube views, as the p-value was below the chosen significance level. This suggests that there is a significant variation between the two platforms in terms of streaming numbers and YouTube viewership.
+* A statistical analysis was performed using a paired t-test to compare the sample means of streaming numbers and YouTube views. The resulting p-value indicated whether there was a significant difference between the two metrics.
+* The distributions of the sample means were visualized using histograms to understand their distributions and compare them between streaming numbers and YouTube views.
+
+![Compare Avg Streaming:Viewing](https://github.com/CBrownTech/Data-Analysis-Science/assets/99114801/94234ced-476c-42fb-aea5-aff871c48f7b)
+
+![Sampling Dist  of Difference (Streaming and YT Views) ](https://github.com/CBrownTech/Data-Analysis-Science/assets/99114801/b2871866-8325-4349-b6c1-6c66a3f09558)
+6b3aa3b51)
+
+![Dist  Sample Means Streams:Views](https://github.com/CBrownTech/Data-Analysis-Science/assets/99114801/361e6edd-4d9a-4304-87c1-51becec7068b)
+
+### Conclusion:
+
+Based on the analysis, it can be concluded that there is a significant difference between Spotify streaming numbers and YouTube viewership. Spotify and YouTube have distinct patterns in terms of popularity and viewership, suggesting that these platforms attract different audiences and have different levels of engagement.
+
+The bar chart comparing the average streaming numbers and YouTube views further emphasizes the differences between the two platforms. Spotify streaming numbers tend to be higher on average compared to YouTube views.
+
+Overall, this analysis provides insights into the contrasting popularity and viewership patterns of music between Spotify and YouTube. It can assist in understanding audience behavior and preferences, as well as inform strategic decisions related to music distribution and promotion on these platforms.
+
+### 2. Albums vs. Singles:
+
+
 
 ## Instructions
 
