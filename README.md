@@ -82,7 +82,7 @@ Based on the analysis, we can confidently conclude that there is a significant d
 
 The mean streaming numbers and the distribution of sample means further support this conclusion, providing valuable insights into the average popularity of music in each key category. Musicians, producers, and industry professionals can leverage this knowledge to make informed decisions in music composition, selection, and marketing strategies, thereby optimizing their reach and impact in the industry.
 
-### Streaming Numbers vs. YouTube Viewership Among Music Artists
+### 4. Streaming Numbers vs. YouTube Viewership Among Music Artists
 
 * In this category, we explored the relationship between streaming numbers and YouTube views among music artists. The analysis aimed to determine if there is a correlation between these two metrics and provide insights into the connection between streaming popularity and YouTube engagement.
 * We began by grouping the data by music artists and calculating the mean streaming numbers and YouTube views for each artist. This allowed us to identify the top artists with the highest streaming numbers and YouTube views.
