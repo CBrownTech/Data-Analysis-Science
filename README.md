@@ -111,7 +111,7 @@ Overall, the analysis underscores the interconnectedness of streaming platforms 
 To run the code and replicate the analysis:
 
 1. Install the required libraries mentioned in the `requirements.txt` file.
-2. Download the dataset in CSV format and save it as `your_dataset.csv`.
+2. Download the dataset from the `.zip` file in CSV format and save it as `your_dataset.csv`.
 3. Update the file paths and names in the code as necessary.
 4. Run the code step-by-step, following the instructions and comments provided in each section.
 5. Examine the results, visualizations, and interpretations obtained at each step.
