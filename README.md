@@ -58,7 +58,7 @@ Overall, this analysis provides insights into the contrasting popularity and vie
 * The sampling distribution of the difference in sample means was visualized through a histogram, showcasing the distribution of differences obtained by randomly sampling from the data. The observed difference in sample means was indicated by a vertical line in the histogram.
 
 ![Compare Avg Numbers of Albums and Singles](https://github.com/CBrownTech/Data-Analysis-Science/assets/99114801/9f8f5e61-eefb-48d5-8023-558a4d704978)
-<br> <br/>
+
 ![Sampling Dist  of Albums and Singles](https://github.com/CBrownTech/Data-Analysis-Science/assets/99114801/9473c755-6f0f-4aa0-87eb-c511fca7e035)
 
 ### Conclusion:
@@ -67,7 +67,44 @@ Based on the analysis, it can be concluded that there is a significant differenc
 
 This analysis provides insights into the varying popularity and viewership patterns between albums and singles in the music industry. It can inform decision-making processes related to music production, marketing, and audience engagement strategies. Understanding the differences between albums and singles can help music artists and industry professionals tailor their approaches and maximize their impact.
 
+
 ### 3. Major Keys vs. Minor Keys
+
+* The Central Limit Theorem is applied by generating random samples and calculating the sample means for major keys and minor keys.
+* A statistical test (independent t-test) is performed to compare the means of streaming numbers between major keys and minor keys.
+* The distributions of sample means for major keys and minor keys are visualized through histograms.
+
+![Dist  Sample Means Music Keys](https://github.com/CBrownTech/Data-Analysis-Science/assets/99114801/ed618274-5007-4aae-9108-f91990472660)
+
+### Conclusion:
+
+Based on the analysis, we can confidently conclude that there is a significant disparity in streaming numbers between major keys and minor keys. The key of the music plays a crucial role in determining its popularity and listenership, as evidenced by the clear distinction in streaming patterns observed between major keys and minor keys. This finding highlights the importance of considering the musical key when analyzing and promoting music, as it significantly impacts its overall appeal and engagement among listeners. 
+
+The mean streaming numbers and the distribution of sample means further support this conclusion, providing valuable insights into the average popularity of music in each key category. Musicians, producers, and industry professionals can leverage this knowledge to make informed decisions in music composition, selection, and marketing strategies, thereby optimizing their reach and impact in the industry.
+
+### Streaming Numbers vs. YouTube Viewership Among Music Artists
+
+* In this category, we explored the relationship between streaming numbers and YouTube views among music artists. The analysis aimed to determine if there is a correlation between these two metrics and provide insights into the connection between streaming popularity and YouTube engagement.
+* We began by grouping the data by music artists and calculating the mean streaming numbers and YouTube views for each artist. This allowed us to identify the top artists with the highest streaming numbers and YouTube views.
+* To assess the correlation between streaming numbers and YouTube views, we performed correlation analysis using the correlation coefficient. The analysis revealed a strong positive correlation of 0.9453, indicating that approximately 94.53% of the variability in streaming numbers can be attributed to the variability in YouTube views among the top music artists.
+* The significance of this correlation implies that artists who achieve higher streaming numbers also tend to receive higher YouTube views. This finding emphasizes the interdependence of streaming platforms and YouTube as key indicators of music popularity and audience engagement.
+* We further visualized the mean streaming numbers and YouTube views for the top artists using bar charts, providing a clear comparison of the metrics and highlighting the artists who excelled in terms of both streaming numbers and YouTube views.
+
+![Top Artists by Streaming Numbers](https://github.com/CBrownTech/Data-Analysis-Science/assets/99114801/1db39166-a0a2-4c6a-859a-9a4d8c26d33c)
+
+![Top Artists by YouTube Views](https://github.com/CBrownTech/Data-Analysis-Science/assets/99114801/f446f59e-567a-4ba6-b0a0-c867f3b4feb5)
+
+![Dist  Sample Means Music Artists](https://github.com/CBrownTech/Data-Analysis-Science/assets/99114801/8476b36e-10f1-48ab-a2ba-ba0394ba754b)
+
+### Conclusion:
+
+The analysis of the correlation between streaming numbers and YouTube views among music artists demonstrates a significant and positive relationship between these metrics. Artists with higher streaming numbers are more likely to have higher YouTube views, indicating a strong connection between streaming popularity and YouTube engagement.
+
+This correlation highlights the importance of considering both streaming numbers and YouTube views when evaluating the success and impact of music artists in the digital landscape. It suggests that a strong presence on streaming platforms can drive higher engagement on YouTube and vice versa.
+
+By leveraging this correlation, music artists can strategically focus on optimizing their digital strategies, promotional efforts, and content creation to enhance visibility and capture the attention of their target audience effectively. It provides valuable insights for artists, producers, and industry professionals to make informed decisions and maximize their reach and impact in the digital music landscape.
+
+Overall, the analysis underscores the interconnectedness of streaming platforms and YouTube in determining music popularity and emphasizes the need for a holistic approach to audience engagement and digital marketing strategies in the music industry.
 
 ## Instructions
 
